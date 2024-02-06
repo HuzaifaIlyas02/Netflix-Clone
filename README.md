@@ -16,7 +16,7 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 - **Responsive Design**: Works well on a variety of devices and window or screen sizes.
 - **Interactive Movie Trailers**: Users can watch movie trailers by clicking on the movie card.
 
-## 👩🏽‍🍳The Process
+## 🔨 The Process
 
 I began with the initialization of the project using Create React App. This set the stage for a seamless development experience with ReactJS. After setting up the project, I then proceeded to create a repository on GitHub to manage version control and track the development progress.
 
@@ -34,27 +34,53 @@ During this process, I carefully documented each step and what I learned from it
 
 ## 📚 What I Learned
 
-- Enhanced my ReactJS skills, especially in terms of component structure and state management.
-- Gained experience in using third-party APIs and handling their responses.
-- Learned about deploying a web application using Firebase and the associated best practices.
+### 💡 ReactJS Proficiency:
+
+- Component-Based Architecture
+- State Management
+- Hooks and Lifecycle Methods
+- Routing
+- Prop Handling
+
+### 🌐 API Integration:
+
+- Fetching Data from APIs
+- API Error Handling
+
+### ⏱️ Asynchronous Programming:
+
+- Promises and Async/Await
+
+### 🚢 Deployment:
+
+- Firebase Setup and Configuration
+- Continuous Deployment
+- Environment Configuration
+- Troubleshooting Deployment Issues
 
 ## 💭 How can it be improved?
 
-- Implement user authentication to allow personalized watchlists.
-- Add more interactive elements such as rating movies or TV shows.
-- Increase the performance by implementing lazy loading for images and components.
+- Add navigation links for different categories like TV Shows, Movies, Recently Added, and My List for easier content accessibility.
+- Implement a search option to allow users to quickly find specific movies or TV shows.
+- Introduce a login system to provide a personalized experience for users.
+- Add features like user ratings, comments, and the ability to create personal watchlists.
+- Work on improving the app's performance for faster load times and smoother navigation.
 
 ## 🚦Running the Project
 
-To run this project locally:
+To run the project in your local environment, follow these steps:
 
 1. Clone the repository.
-2. Install dependencies using `npm install`.
-3. Setup your TMDB API key in a `.env` file.
+2. Run `npm install` or `yarn` in the project directory to install the required dependencies.
+3. Navigate to the folder `cd netflix-clone`.
 4. Run the project using `npm start`.
+
+For an overview of the app and its functionalities, please visit [App Overview](https://netflixclone-1db57.web.app/).
 
 ## ⚠️ Caution
 
 The website might trigger a security warning, but please note that there is no such issue, and it is safe to proceed.
 
 Enjoy the application!
+
+## 🍿 Video
