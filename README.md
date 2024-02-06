@@ -84,3 +84,5 @@ The website might trigger a security warning, but please note that there is no s
 Enjoy the application!
 
 ## 🍿 Video
+
+https://github.com/HuzaifaIlyas02/Netflix-Clone/assets/86406012/a7b35a93-b7f3-484c-898e-8d7207775423
